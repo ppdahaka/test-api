@@ -1,0 +1,42 @@
+[
+  {
+    "courseName": "Web Development Bootcamp",
+    "courseParticipantCount": "120",
+    "courseDuration": "10 weeks",
+    "courseUrl": "https://www.btkakademi.gov.tr/portal/course/web-sitesi-kullanilabilirligi-16027",
+    "courseImageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*V-Jp13LvtVc2IiY2fp4qYw.jpeg",
+    "courseSoftwareBranchId": "1"
+  },
+  {
+    "courseName": "Mobile App Development Fundamentals",
+    "courseParticipantCount": "90",
+    "courseDuration": "8 weeks",
+    "courseUrl": "https://www.btkakademi.gov.tr/portal/course/app-inventor-ile-mobil-uygulama-gelistirme-10774",
+    "courseImageUrl": "https://assets-global.website-files.com/6410ebf8e483b5bb2c86eb27/6410ebf8e483b5758186fbd8_ABM%20college%20mobile%20app%20dev%20main.jpg",
+    "courseSoftwareBranchId": "2"
+  },
+  {
+    "courseName": "Data Science Essentials",
+    "courseParticipantCount": "80",
+    "courseDuration": "12 weeks",
+    "courseUrl": "https://www.btkakademi.gov.tr/portal/course/r-ile-veri-bilimine-giris-13050",
+    "courseImageUrl": "https://s40424.pcdn.co/in/wp-content/uploads/2023/08/Featured-Images-April-28.png",
+    "courseSoftwareBranchId": "3"
+  },
+  {
+    "courseName": "Cybersecurity for Beginners",
+    "courseParticipantCount": "60",
+    "courseDuration": "6 weeks",
+    "courseUrl": "https://www.btkakademi.gov.tr/portal/course/siber-guvenlik-analisti-egitimi-5020",
+    "courseImageUrl": "https://cdn.crn.in/wp-content/uploads/2020/07/27131608/CRN-CyberSecurity-Technology-696.jpg",
+    "courseSoftwareBranchId": "4"
+  },
+  {
+    "courseName": "Artificial Intelligence Masterclass",
+    "courseParticipantCount": "110",
+    "courseDuration": "14 weeks",
+    "courseUrl": "https://www.btkakademi.gov.tr/portal/course/veri-bilimi-icin-temel-istatistik-26436",
+    "courseImageUrl": "https://cadiz.co.za/wp-content/uploads/2023/03/iStock-1435014643.jpg",
+    "courseSoftwareBranchId": "5"
+  }
+]

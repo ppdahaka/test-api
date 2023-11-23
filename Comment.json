@@ -1,0 +1,72 @@
+[
+  {
+    "commentId": "1",
+    "commentFullName": "John Doe",
+    "commentAvatarUrl": "https://randomuser.me/api/portraits/men/1.jpg",
+    "commentContent": "Harika bir gönderi!",
+    "commentLikeCount": 15,
+    "commentRootPostId": "101",
+    "commentUserId": "123",
+    "commentCreatedAt": "2023-11-01 09:30:45"
+  },
+  {
+    "commentId": "2",
+    "commentFullName": "Jane Smith",
+    "commentAvatarUrl": "https://randomuser.me/api/portraits/women/2.jpg",
+    "commentContent": "Teşekkürler!",
+    "commentLikeCount": 7,
+    "commentRootPostId": "101",
+    "commentUserId": "456",
+    "commentCreatedAt": "2023-11-01 10:15:20"
+  },
+  {
+    "commentId": "3",
+    "commentFullName": "Alice Johnson",
+    "commentAvatarUrl": "https://randomuser.me/api/portraits/men/3.jpg",
+    "commentContent": "Eğlenceli bir konu.",
+    "commentLikeCount": 10,
+    "commentRootPostId": "102",
+    "commentUserId": "789",
+    "commentCreatedAt": "2023-11-02 14:22:18"
+  },
+  {
+    "commentId": "4",
+    "commentFullName": "Bob Wilson",
+    "commentAvatarUrl": "https://randomuser.me/api/portraits/women/4.jpg",
+    "commentContent": "Bu konu hakkında daha fazla bilgi verir misiniz?",
+    "commentLikeCount": 3,
+    "commentRootPostId": "102",
+    "commentUserId": "101",
+    "commentCreatedAt": "2023-11-02 15:45:10"
+  },
+  {
+    "commentId": "5",
+    "commentFullName": "Eva Martinez",
+    "commentAvatarUrl": "https://randomuser.me/api/portraits/men/5.jpg",
+    "commentContent": "Mükemmel!",
+    "commentLikeCount": 12,
+    "commentRootPostId": "103",
+    "commentUserId": "202",
+    "commentCreatedAt": "2023-11-03 12:05:30"
+  },
+  {
+    "commentId": "6",
+    "commentFullName": "David Lee",
+    "commentAvatarUrl": "https://randomuser.me/api/portraits/women/6.jpg",
+    "commentContent": "Çok ilginç.",
+    "commentLikeCount": 5,
+    "commentRootPostId": "103",
+    "commentUserId": "303",
+    "commentCreatedAt": "2023-11-03 14:20:55"
+  },
+  {
+    "commentId": "7",
+    "commentFullName": "Grace Taylor",
+    "commentAvatarUrl": "https://randomuser.me/api/portraits/men/7.jpg",
+    "commentContent": "Başarılar!",
+    "commentLikeCount": 8,
+    "commentRootPostId": "104",
+    "commentUserId": "404",
+    "commentCreatedAt": "2023-11-04 09:10:15"
+  }
+]

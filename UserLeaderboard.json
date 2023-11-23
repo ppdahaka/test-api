@@ -1,0 +1,51 @@
+[
+  {
+    "userId": "1",
+    "userFullName": "John Doe",
+    "userRank": "Gold",
+    "userPoint": "100",
+    "userAvatarUrl": "https://example.com/avatar1.jpg"
+  },
+  {
+    "userId": "2",
+    "userFullName": "Jane Doe",
+    "userRank": "Silver",
+    "userPoint": "90",
+    "userAvatarUrl": "https://example.com/avatar2.jpg"
+  },
+  {
+    "userId": "3",
+    "userFullName": "Bob Smith",
+    "userRank": "Bronze",
+    "userPoint": "80",
+    "userAvatarUrl": "https://example.com/avatar3.jpg"
+  },
+  {
+    "userId": "4",
+    "userFullName": "Alice Johnson",
+    "userRank": "Platinum",
+    "userPoint": "110",
+    "userAvatarUrl": "https://example.com/avatar4.jpg"
+  },
+  {
+    "userId": "5",
+    "userFullName": "Charlie Brown",
+    "userRank": "Gold",
+    "userPoint": "95",
+    "userAvatarUrl": "https://example.com/avatar5.jpg"
+  },
+  {
+    "userId": "6",
+    "userFullName": "Eva Green",
+    "userRank": "Silver",
+    "userPoint": "85",
+    "userAvatarUrl": "https://example.com/avatar6.jpg"
+  },
+  {
+    "userId": "7",
+    "userFullName": "David White",
+    "userRank": "Bronze",
+    "userPoint": "75",
+    "userAvatarUrl": "https://example.com/avatar7.jpg"
+  }
+]

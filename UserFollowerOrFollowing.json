@@ -1,0 +1,32 @@
+[
+{
+  "userId": "1",
+  "userFullName": "John Doe",
+  "userAvatarUrl": "https://example.com/avatar1.jpg",
+  "userIsBeingFollowed": true
+},
+{
+  "userId": "2",
+  "userFullName": "Jane Smith",
+  "userAvatarUrl": "https://example.com/avatar2.jpg",
+  "userIsBeingFollowed": false
+},
+{
+  "userId": "3",
+  "userFullName": "Alice Johnson",
+  "userAvatarUrl": "https://example.com/avatar3.jpg",
+  "userIsBeingFollowed": true
+},
+{
+  "userId": "4",
+  "userFullName": "Bob Brown",
+  "userAvatarUrl": "https://example.com/avatar4.jpg",
+  "userIsBeingFollowed": false
+},
+{
+  "userId": "5",
+  "userFullName": "Eva Davis",
+  "userAvatarUrl": "https://example.com/avatar5.jpg",
+  "userIsBeingFollowed": true
+}
+]

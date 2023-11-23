@@ -1,0 +1,56 @@
+[
+  {
+    "softwareBranchId": "1",
+    "softwareBranchName": "Web Development",
+    "softwareBranchPopularity": true,
+    "softwareBranchRank": "1",
+    "softwareBranchImageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*V-Jp13LvtVc2IiY2fp4qYw.jpeg",
+    "softwareBranchPoint": "95",
+    "softwareBranchIconUrl": "https://example.com/web-development-icon.jpg"
+  },
+  {
+    "softwareBranchId": "2",
+    "softwareBranchName": "Mobile App Development",
+    "softwareBranchPopularity": false,
+    "softwareBranchRank": "2",
+    "softwareBranchImageUrl": "https://assets-global.website-files.com/6410ebf8e483b5bb2c86eb27/6410ebf8e483b5758186fbd8_ABM%20college%20mobile%20app%20dev%20main.jpg",
+    "softwareBranchPoint": "92",
+    "softwareBranchIconUrl": "https://example.com/mobile-app-development-icon.jpg"
+  },
+  {
+    "softwareBranchId": "3",
+    "softwareBranchName": "Data Science",
+    "softwareBranchPopularity": false,
+    "softwareBranchRank": "3",
+    "softwareBranchImageUrl": "https://s40424.pcdn.co/in/wp-content/uploads/2023/08/Featured-Images-April-28.png",
+    "softwareBranchPoint": "89",
+    "softwareBranchIconUrl": "https://example.com/data-science-icon.jpg"
+  },
+  {
+    "softwareBranchId": "4",
+    "softwareBranchName": "Cybersecurity",
+    "softwareBranchPopularity": true,
+    "softwareBranchRank": "4",
+    "softwareBranchImageUrl": "https://cdn.crn.in/wp-content/uploads/2020/07/27131608/CRN-CyberSecurity-Technology-696.jpg",
+    "softwareBranchPoint": "88",
+    "softwareBranchIconUrl": "https://example.com/cybersecurity-icon.jpg"
+  },
+  {
+    "softwareBranchId": "5",
+    "softwareBranchName": "Artificial Intelligence",
+    "softwareBranchPopularity": true,
+    "softwareBranchRank": "5",
+    "softwareBranchImageUrl": "https://cadiz.co.za/wp-content/uploads/2023/03/iStock-1435014643.jpg",
+    "softwareBranchPoint": "87",
+    "softwareBranchIconUrl": "https://example.com/ai-icon.jpg"
+  },
+  {
+    "softwareBranchId": "6",
+    "softwareBranchName": "Game Development",
+    "softwareBranchPopularity": false,
+    "softwareBranchRank": "6",
+    "softwareBranchImageUrl": "https://assets-global.website-files.com/5b651f8b5fc94c4e27470a81/622227fd2ce3cc0455a88166_blog-gamedev-fullsize.png",
+    "softwareBranchPoint": "86",
+    "softwareBranchIconUrl": "https://example.com/game-development-icon.jpg"
+  }
+]

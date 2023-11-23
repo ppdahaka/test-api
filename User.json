@@ -1,0 +1,67 @@
+[
+  {
+    "userId": "1",
+    "userFullName": "Ahmet Yılmaz",
+    "userTitle": "Yazılım Mühendisi",
+    "userBio": "Kodlamaya ve teknolojiye tutkulu birisiyim.",
+    "userRank": "5",
+    "userPoint": "750",
+    "userAvatarUrl": "https://randomuser.me/api/portraits/men/1.jpg",
+    "userBackgroundUrl": "https://example.com/background1.jpg",
+    "userGithubUrl": "https://github.com/ahmetyilmaz",
+    "userFollowerCount": 500,
+    "userFollowingCount": 200
+  },
+  {
+    "userId": "2",
+    "userFullName": "Ayşe Kaya",
+    "userTitle": "Web Geliştirici",
+    "userBio": "Fark yaratan web uygulamaları geliştiriyorum.",
+    "userRank": "4",
+    "userPoint": "600",
+    "userAvatarUrl": "https://randomuser.me/api/portraits/women/2.jpg",
+    "userBackgroundUrl": "https://example.com/background2.jpg",
+    "userGithubUrl": "https://github.com/aysekaya",
+    "userFollowerCount": 350,
+    "userFollowingCount": 150
+  },
+  {
+    "userId": "3",
+    "userFullName": "Ali Demir",
+    "userTitle": "Veri Bilimci",
+    "userBio": "Veriyi inceleyerek görünmez desenleri keşfediyorum.",
+    "userRank": "3",
+    "userPoint": "550",
+    "userAvatarUrl": "https://randomuser.me/api/portraits/men/3.jpg",
+    "userBackgroundUrl": "https://example.com/background3.jpg",
+    "userGithubUrl": "https://github.com/alidemir",
+    "userFollowerCount": 250,
+    "userFollowingCount": 100
+  },
+  {
+    "userId": "4",
+    "userFullName": "Burak Yıldız",
+    "userTitle": "Güvenlik Uzmanı",
+    "userBio": "Dijital varlıkları tehditlerden koruyorum.",
+    "userRank": "4",
+    "userPoint": "600",
+    "userAvatarUrl": "https://randomuser.me/api/portraits/women/4.jpg",
+    "userBackgroundUrl": "https://example.com/background4.jpg",
+    "userGithubUrl": "https://github.com/burakyildiz",
+    "userFollowerCount": 300,
+    "userFollowingCount": 120
+  },
+  {
+    "userId": "5",
+    "userFullName": "Elif Güneş",
+    "userTitle": "Yapay Zeka Araştırmacısı",
+    "userBio": "Yapay zeka alanında sınırları zorluyorum.",
+    "userRank": "5",
+    "userPoint": "750",
+    "userAvatarUrl": "https://randomuser.me/api/portraits/men/5.jpg",
+    "userBackgroundUrl": "https://example.com/background5.jpg",
+    "userGithubUrl": "https://github.com/elifgunes",
+    "userFollowerCount": 400,
+    "userFollowingCount": 180
+  }
+]
