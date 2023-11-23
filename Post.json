@@ -8,7 +8,14 @@
     "postRepositoryUrl": "https://github.com/johndoe/myproject",
     "postContent": "Bu bir örnek gönderi içeriğidir.",
     "postSoftwareBranchName": "main",
-    "postSoftwareLanguage": [{"name": "Kotlin"},{"name": "Java"}],
+    "postSoftwareLanguage": [
+      {
+        "name": "Kotlin"
+      },
+      {
+        "name": "Java"
+      }
+    ],
     "postImageUrl": "https://example.com/image1.jpg",
     "postLikeCount": 100,
     "postCommentCount": 20,
@@ -23,7 +30,11 @@
     "postRepositoryUrl": "https://github.com/janesmith/projectxyz",
     "postContent": "Bu başka bir örnek gönderi içeriğidir.",
     "postSoftwareBranchName": "development",
-    "postSoftwareLanguage": [{"name": "Python"}],
+    "postSoftwareLanguage": [
+      {
+        "name": "Python"
+      }
+    ],
     "postImageUrl": null,
     "postLikeCount": 50,
     "postCommentCount": 10,
@@ -38,7 +49,14 @@
     "postRepositoryUrl": "https://github.com/alicej/project123",
     "postContent": "Üçüncü bir örnek gönderi içeriği.",
     "postSoftwareBranchName": "feature-xyz",
-    "postSoftwareLanguage": [{"name": "C#"},{"name": "Rust"}],
+    "postSoftwareLanguage": [
+      {
+        "name": "C#"
+      },
+      {
+        "name": "Rust"
+      }
+    ],
     "postImageUrl": "https://example.com/image3.jpg",
     "postLikeCount": 75,
     "postCommentCount": 15,
@@ -53,7 +71,11 @@
     "postRepositoryUrl": "https://github.com/bobw/project456",
     "postContent": "Dördüncü bir örnek gönderi içeriği.",
     "postSoftwareBranchName": "bug-fixes",
-    "postSoftwareLanguage": [{"name": "C#"}],
+    "postSoftwareLanguage": [
+      {
+        "name": "C#"
+      }
+    ],
     "postImageUrl": "https://example.com/image4.jpg",
     "postLikeCount": 30,
     "postCommentCount": 5,
@@ -68,7 +90,11 @@
     "postRepositoryUrl": "https://github.com/evaw/myapp",
     "postContent": "Beşinci bir örnek gönderi içeriği.",
     "postSoftwareBranchName": "release",
-    "postSoftwareLanguage": [{"name": "Swift"}],
+    "postSoftwareLanguage": [
+      {
+        "name": "Swift"
+      }
+    ],
     "postImageUrl": null,
     "postLikeCount": 10,
     "postCommentCount": 2,
@@ -83,7 +109,11 @@
     "postRepositoryUrl": "https://github.com/mikeb/myproject2",
     "postContent": "Altıncı bir örnek gönderi içeriği.",
     "postSoftwareBranchName": "main",
-    "postSoftwareLanguage": [{"name": "Java"}],
+    "postSoftwareLanguage": [
+      {
+        "name": "Java"
+      }
+    ],
     "postImageUrl": "https://example.com/image6.jpg",
     "postLikeCount": 40,
     "postCommentCount": 8,
@@ -98,7 +128,14 @@
     "postRepositoryUrl": "https://github.com/saram/myapp3",
     "postContent": "Yedinci bir örnek gönderi içeriği.",
     "postSoftwareBranchName": "feature-abc",
-    "postSoftwareLanguage": [{"name": "Javascript"},{"name": "C++"}],
+    "postSoftwareLanguage": [
+      {
+        "name": "Javascript"
+      },
+      {
+        "name": "C++"
+      }
+    ],
     "postImageUrl": null,
     "postLikeCount": 60,
     "postCommentCount": 12,
@@ -113,7 +150,11 @@
     "postRepositoryUrl": "https://github.com/davidc/myapp4",
     "postContent": "Sekizinci bir örnek gönderi içeriği.",
     "postSoftwareBranchName": "bug-fixes",
-    "postSoftwareLanguage": [{"name": "Ruby"}],
+    "postSoftwareLanguage": [
+      {
+        "name": "Ruby"
+      }
+    ],
     "postImageUrl": "https://example.com/image8.jpg",
     "postLikeCount": 70,
     "postCommentCount": 14,
@@ -128,7 +169,11 @@
     "postRepositoryUrl": "https://github.com/olivial/myproject5",
     "postContent": "Dokuzuncu bir örnek gönderi içeriği.",
     "postSoftwareBranchName": "release",
-    "postSoftwareLanguage": [{"name": "Go"}],
+    "postSoftwareLanguage": [
+      {
+        "name": "Go"
+      }
+    ],
     "postImageUrl": null,
     "postLikeCount": 25,
     "postCommentCount": 6,
@@ -143,7 +188,11 @@
     "postRepositoryUrl": "https://github.com/michaelt/myapp6",
     "postContent": "Onuncu bir örnek gönderi içeriği.",
     "postSoftwareBranchName": "main",
-    "postSoftwareLanguage": [{"name": "C"}],
+    "postSoftwareLanguage": [
+      {
+        "name": "C"
+      }
+    ],
     "postImageUrl": "https://example.com/image10.jpg",
     "postLikeCount": 35,
     "postCommentCount": 7,
